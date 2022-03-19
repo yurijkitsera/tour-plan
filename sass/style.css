@@ -1,1 +1,11 @@
-/*# sourceMappingURL=style.css.map */
+.header-menu {
+  font-size: 20px;
+}
+.header-menu__item {
+  color: red;
+  font-size: 25px;
+  font-weight: normal;
+}
+.header-menu__link {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
