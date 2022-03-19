@@ -1,11 +1,7 @@
-.header-menu {
-  font-size: 20px;
+* {
+  box-sizing: border-box;
 }
-.header-menu__item {
-  color: red;
-  font-size: 25px;
-  font-weight: normal;
-}
-.header-menu__link {
-  text-decoration: none;
+
+body {
+  font-family: "Mulish", sans-serif;
 }/*# sourceMappingURL=style.css.map */
